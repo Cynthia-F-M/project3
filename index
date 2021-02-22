@@ -1,0 +1,164 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>project3</title>
+<style>
+	#myheader {background-color:yellow; color:darkgreen; padding:20px; text-align:center;}
+		.city {background-color:darkgreen; color:white; border:2px solid black; margin:15px; padding:15px;}
+	.img-container {text-align:center;}	
+	table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid red;
+  text-align: left;
+  padding: 8px; color:red
+}
+
+tr:nth-child(even) {
+  background-color: orange;
+}
+</style>
+</head>
+
+<body>
+<h1 style="text-align:center;background-color:orange;color:darkred;"><span style="border:5px solid red">Camping Out</span></h1>
+	<hr>
+<div style="background-image: url('images/toptent.jpg'); background-repeat:no-repeat; background-size:cover; style=float:center;">
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+  <h2 style="color:red;text-align:center;font-size:400%;">Simple Guide</h2>
+	<br>
+	<br>
+	<br>
+	</div>
+	<hr>
+	<p>So, you have decided you want to try camping. How exciting! But where to start...           &#128293;&#127956;&#127957; &#127956;&#128293;</p>
+<h3 id="myheader">Finding a Camp Ground</h3>
+<p>First things first, you must find a place to set up your tent. Many places have very convenient camp grounds that provide you with picnic tables and a place to make a fire. Some even have a restroom. It is all dependent on how close to <b>nature</b> you wish to get.</p>
+<div class="img-container"><img src="images/campground.jpg" width="650" height="450" alt="Campground with picnic and firepit"/></div>
+<p>It can still be very peaceful and natural even with such amenities. Of course, if you feel that you need an even deeper escape from civilization, there are places for that as well.</p>
+<div class="img-container"><img src="images/remote-camping.jpg" width="650" height="450" alt="Up high and away from others"/></div>
+<p>Sometimes, all we crave is to get away. If you feel <i>confident</i> in your outdoor skills, this is the place to go. Not even necessary to have read <cite>Bushcraft 101</cite>. Just take a look a look at some of these places here on <a href="https://www.timeout.com/usa/things-to-do/best-camping-in-the-united-states">The best places to camp</a>.</p>
+	<div class="city">
+	<h4>Portland, Oregon</h4>
+	<p>Portland, Oregon is a beautiful city close to a variety places with picturesque places to get away.</p></div>
+	<div class="city">
+	<h4>Durango, Colorado</h4>
+	<p>Another remarkable place to visit with mountains and historical sites. Not a bad place to find mushrooms as well.</p>
+		<iframe src="https://cynthia-f-m.github.io/html1.2/" height="200" width="300" title="mushrooms"></iframe>
+	</div>
+	
+<h3 style= "background-color:lightgreen; color:black; padding:20px; text-align:center;">A Camp Fire</h3>
+<div class="img-container"><img src="images/campfire.jpg" width="650" height="450" alt="Fire"/></div>
+<p title="Hot!">Nothing quite like sitting in front of a campfire. The smell of the wood burning, campfire coffee, and maybe some s'mores to snack on. Most campgrounds provide a firepit for you to use. If they don't, there are a few easy tricks to make a safe fire pit. </p>
+<br>
+<p><img src="images/firepit.jpg" width="650" height="450" alt="Homemade Firepit" style="float:left;"/>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+Making your own firepit requires a shovel and a pile of stones. First, <span style="border: 1px solid black">dig a hole</span> with the shovel. Then, add the <span style="border: 1px solid black">stones</span> all around the hole to prevent any of the wood and fire from falling out and burning the vegetation around.</p>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	
+	<h3 style="background-color:lightgreen; color:black; padding:20px; text-align:center;">Campfire Recipes</h3>
+
+<table>
+  <tr>
+    <th>recipe name</th>
+    <th>main ingredient</th>
+    <th>serving</th>
+  </tr>
+  <tr>
+    <td>S'mores</td>
+    <td>marshmallow, chocolate, graham crackers</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Cast-iron beans</td>
+    <td>onion, beans, tomatoes, garlic, hot dogs, and prefered seasonings</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>Glampfire cocktail</td>
+    <td>liquid smoke, whiskey, ginger, lemon juice, and honey</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Grilled chocolate-chip sundae</td>
+    <td>baking spray, aluminum foil, cookie dough squares, ice cream, and hot fudge</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Campfire nachos</td>
+    <td>ground beef, jalapeno, onion, chips, cheese, lettuce, tomato, and salsa</td>
+    <td>4</td>
+  </tr>
+</table>
+<h3 style="background-color:lightgreen; color:black; padding:20px; text-align:center;">Tools for Camping</h3>
+<div class="img-container"><img src="images/tent-items.jpg" width="650" height="450" alt="Camping tools"/></div>
+	<p>Nothing quite like being prepared for anything that comes your way. The best way for you to be prepared is to always expect the unexpected.</p>
+	<h4 style= "color:red;">List of Tools</h4>
+<ol>
+	<li>tent</li>
+	<li>sleeping bags</li>
+	<li>sleeping pads</li>
+	<li>camping pillow</li>
+	<li>flashlights and extra batteries</li>
+	<li>camp chairs</li>
+	<li>lantern</li>
+	<li>tarp</li>
+	<li>hammock</li>
+	<li>multi-tool</li>
+	<li>duct tape</li>
+	<li>extra cord</li>
+	<li>mallet or hammer</li>
+	<li>saw</li>
+	<li>axe</li>
+	<li>matches</li>
+	<li>cook pots</li>
+	<li>frying pan</li>
+	<li>eating utensils</li>
+	<li>cooking utensils</li>
+	<li>bottle and can opener</li>
+	<li>sharp knife</li>
+	<li>plates and bowls</li>
+	<li>cups</li>
+	<li>cutting board</li>
+	<li>cooler</li>
+	<li>water bottles</li>
+	<li>environmentally safe cleaner for dishes</li>
+	</ol>
+	<button onclick="myfuntion()">Just in case</button>
+	<p id="demo"></p>
+	<script>
+	function myfunction() { document.getelementbyid("demo").innerhtml= "Never leave food out for animals in a camp!"</script>
+	
+</body>
+</html>
